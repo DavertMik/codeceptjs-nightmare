@@ -1,6 +1,6 @@
 {
   "name": "codeceptjs-nightmare",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CodeceptJS with Nightmare installed",
   "main": "index.js",
   "repository": {
@@ -20,9 +20,8 @@
     "url": "http://codegyre.com"
   },
   "dependencies": {
-    "codeceptjs": "*",
-    "nightmare": "^2.5.2",
-    "nightmare-upload": "^0.1.1"
+    "codeceptjs": "^1.1.0",
+    "nightmare": "^3.0.0",
   },
   "license": "MIT",
   "homepage": "http://codecept.io"
